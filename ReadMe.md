@@ -40,10 +40,6 @@ const valerian = {
 <br/>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ValerianAhmad&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerianAhmad&theme=graywhite&hide_border=true&layout=compact&hide_title=true" height="180"/>
-</div>
 
 ---
 <br/>
