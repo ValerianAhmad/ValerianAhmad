@@ -40,14 +40,10 @@ const valerian = {
 <br/>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Stats
-
----
-<br/>
-
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN24wYnplbjd2azB5N2xnOTAybjVzdTVoaWZ4NzB4YWR1cmwzZ2I3bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kH6CqYiquZawmU1HI6/giphy.gif" width="50"> Github Repos
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=PackageTemplate&show_owner=true)](https://github.com/ValerianAhmad/sugi-ac-mobil)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=Foods-Ecommerce&show_owner=true)](https://github.com/ValerianAhmad/c-minor.github.io)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ValerianAhmad&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValerianAhmad&theme=graywhite&hide_border=true&layout=compact&hide_title=true" height="180"/>
+</div>
 
 ---
 <br/>
